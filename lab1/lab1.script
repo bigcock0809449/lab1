@@ -1,0 +1,22 @@
+命令稿啟動於 2018年03月16日 上午 02:55:21
+]0;~
+[32m吳泰宇@�d���t-PC [33m~[0m
+$ whoami;pwd
+吳泰宇
+/home/吳泰宇
+]0;~
+[32m吳泰宇@�d���t-PC [33m~[0m
+$ git config-l[C -l[C[C
+user.email=asdkickyourass5@gmail.com
+user.name=bigcock0809449
+]0;~
+[32m吳泰宇@�d���t-PC [33m~[0m
+$ git clone https://github.com/bigcock0809449/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32m吳泰宇@�d���t-PC [33m~[0m
+$ cat lab1[K[K[K[K[K[K[K[Kexit
+
+命令稿已於 2018年03月16日 上午 02:56:48
+ 完成
